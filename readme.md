@@ -11,7 +11,7 @@ Mohammad Mohammad Soltani
 You can download this pakage from Composer with this command
 
 ```bash
-composer install 
+composer require mohammad-mohammad-soltani/php-url
 ```
 
 # How to use ?
